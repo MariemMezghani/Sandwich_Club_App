@@ -8,6 +8,8 @@ The app provides some popular sandwiches around the world with their images, nam
 The List items are populating from data recieved as JSON.
 
 ## Screenshots
-![foto3](https://user-images.githubusercontent.com/35550711/61665746-66f22680-ad08-11e9-937a-7f4b80dfb3e1.png)
-![foto2](https://user-images.githubusercontent.com/35550711/61665627-0d89f780-ad08-11e9-8948-481b943f9212.png)
-![foto1](https://user-images.githubusercontent.com/35550711/61666220-876eb080-ad09-11e9-9bb0-09c0889bd36a.png)
+![foto3](https://user-images.githubusercontent.com/35550711/61667240-0f55ba00-ad0c-11e9-9604-a409cefd8ce7.png)
+
+![foto2](https://user-images.githubusercontent.com/35550711/61667142-c998f180-ad0b-11e9-9151-d74c7b990266.png)
+
+![foto1](https://user-images.githubusercontent.com/35550711/61667280-25fc1100-ad0c-11e9-856c-847a8c32f89d.png)
